@@ -1,0 +1,12 @@
+[rule]
+pattern = 11 - * - PM.pdf 
+destination = ~/Documents/KIR4/PM/Seminar_Loesungen/
+
+[rule]
+pattern = *PM_Seminar*.pdf
+destination = ~/Documents/KIR4/PM/Seminar/
+
+[rule]
+pattern = sensorik-aktorik*.pdf
+destination = ~/Documents/KIR4/SuA/VL/
+
